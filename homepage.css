@@ -1,11 +1,11 @@
 body {
     background-image: url("background2.jpg"); height: auto; 
 }
-.logo{
+.wrapper . navbar .logo{
     width: 5px;
     cursor: pointer;
 }
-.navbar{
+.wrapper .navbar{
     width: 90%;
     display: block;
     align-items: center;
@@ -42,7 +42,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-.navbar
+.wrapper .navbar
 section{
     display: block;
 }
